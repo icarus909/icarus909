@@ -46,46 +46,85 @@ I approach engineering by breaking complex problems into measurable requirements
 
 ---
 
+
 ## 🛠️ Technical Skills
 
-*Tools and technologies used through coursework, personal engineering projects, and industry placements.*
+*Programming languages, engineering software, development environments, and technical tools applied through academic projects, personal development, and professional engineering experience.*
 
 ### 💻 Programming, Scripting & Digital Design
 
-![C](https://img.shields.io/badge/C-1F2937?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0F766E?style=for-the-badge)
-![VHDL](https://img.shields.io/badge/VHDL-1F2937?style=for-the-badge)
+![MATLAB](https://img.shields.io/badge/MATLAB-E16737?style=for-the-badge)
+![VHDL](https://img.shields.io/badge/VHDL-543978?style=for-the-badge)
 ![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Google Apps Script](https://img.shields.io/badge/Google_Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
-### 🔌 Embedded Systems, Electronics & Prototyping
+### 🔌 Embedded Systems, Electronics & Circuit Design
 
 ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![ESP8266](https://img.shields.io/badge/ESP8266-1F2937?style=for-the-badge)
-![FPGA](https://img.shields.io/badge/FPGA-0F766E?style=for-the-badge)
+![ESP8266](https://img.shields.io/badge/ESP8266-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![FPGA](https://img.shields.io/badge/FPGA-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
-![Sensors & Actuators](https://img.shields.io/badge/Sensors_%26_Actuators-1F2937?style=for-the-badge)
+![LTspice](https://img.shields.io/badge/LTspice-9B1C31?style=for-the-badge)
+![Autodesk EAGLE](https://img.shields.io/badge/Autodesk%20EAGLE-F39C12?style=for-the-badge&logo=autodesk&logoColor=white)
+![Circuit Simulation](https://img.shields.io/badge/Circuit%20Simulation-7952B3?style=for-the-badge)
+![Sensors & Actuators](https://img.shields.io/badge/Sensors%20%26%20Actuators-00A98F?style=for-the-badge)
 
-### ⚙️ Mechanical Design, Controls & Engineering Analysis
+### ⚙️ Mechanical Design, Controls & Simulation
 
-![SolidWorks](https://img.shields.io/badge/SolidWorks-CB333B?style=for-the-badge)
-![Fusion 360](https://img.shields.io/badge/Fusion_360-EF7F1A?style=for-the-badge&logo=autodesk&logoColor=white)
-![Revit](https://img.shields.io/badge/Revit-1F2937?style=for-the-badge&logo=autodesk&logoColor=white)
-![LabVIEW](https://img.shields.io/badge/LabVIEW-0F766E?style=for-the-badge)
-![Control Systems](https://img.shields.io/badge/Control_Systems-1F2937?style=for-the-badge)
-![CAD & Prototyping](https://img.shields.io/badge/CAD_%26_Prototyping-0F766E?style=for-the-badge)
+![SolidWorks](https://img.shields.io/badge/SolidWorks-E2231A?style=for-the-badge)
+![Autodesk Fusion](https://img.shields.io/badge/Autodesk%20Fusion-F7931E?style=for-the-badge&logo=autodesk&logoColor=white)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autodesk&logoColor=white)
+![LabVIEW](https://img.shields.io/badge/LabVIEW-FFDB00?style=for-the-badge&logoColor=black)
+![Simulink](https://img.shields.io/badge/Simulink-E16737?style=for-the-badge)
+![Control Systems](https://img.shields.io/badge/Control%20Systems-654FF0?style=for-the-badge)
+![CAD & Prototyping](https://img.shields.io/badge/CAD%20%26%20Prototyping-009688?style=for-the-badge)
+![3D Printing](https://img.shields.io/badge/3D%20Printing-FF6F00?style=for-the-badge)
 
-### 📊 Engineering Data, Simulation & Workflow Tools
+### 🏗️ Construction, BIM & Engineering Coordination
 
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
-![Quartus](https://img.shields.io/badge/Quartus-1F2937?style=for-the-badge)
-![ModelSim](https://img.shields.io/badge/ModelSim-0F766E?style=for-the-badge)
-![GIS](https://img.shields.io/badge/GIS-1F2937?style=for-the-badge)
-![SAP](https://img.shields.io/badge/SAP-0F766E?style=for-the-badge&logo=sap&logoColor=white)
+![Autodesk Revit](https://img.shields.io/badge/Autodesk%20Revit-186BFF?style=for-the-badge&logo=autodesk&logoColor=white)
+![Revizto](https://img.shields.io/badge/Revizto-FF6B35?style=for-the-badge)
+![BIM 360](https://img.shields.io/badge/BIM%20360-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
+![Bluebeam Revu](https://img.shields.io/badge/Bluebeam%20Revu-2474B5?style=for-the-badge)
+![PM4+](https://img.shields.io/badge/PM4%2B-596579?style=for-the-badge)
+![DroneDeploy](https://img.shields.io/badge/DroneDeploy-0096FF?style=for-the-badge)
+![CUPIX 360](https://img.shields.io/badge/CUPIX%20360-7952B3?style=for-the-badge)
+![BIM Coordination](https://img.shields.io/badge/BIM%20Coordination-4CAF50?style=for-the-badge)
+![Technical Drawings](https://img.shields.io/badge/Technical%20Drawings-607D8B?style=for-the-badge)
+
+### 🧰 Development Environments, Operating Systems & Version Control
+
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Intel Quartus](https://img.shields.io/badge/Intel%20Quartus-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![ModelSim](https://img.shields.io/badge/ModelSim-6C63FF?style=for-the-badge)
+
+### 📊 Data Analysis, Automation & Enterprise Tools
+
+![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
+![Microsoft Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Microsoft SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge)
+![SAP](https://img.shields.io/badge/SAP-0FA6D4?style=for-the-badge&logo=sap&logoColor=white)
+![GIS](https://img.shields.io/badge/GIS-2E7D32?style=for-the-badge)
+![PiMSlider](https://img.shields.io/badge/PiMSlider-4267B2?style=for-the-badge)
+![Cambio](https://img.shields.io/badge/Cambio-00897B?style=for-the-badge)
+![Data Validation](https://img.shields.io/badge/Data%20Validation-FF9800?style=for-the-badge)
+![Workflow Automation](https://img.shields.io/badge/Workflow%20Automation-673AB7?style=for-the-badge)
+
+---
+
 
 ---
 
